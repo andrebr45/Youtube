@@ -1,3 +1,0 @@
-pip install pillow
-pip install pytube
-pip install requests
