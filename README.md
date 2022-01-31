@@ -3,7 +3,7 @@ Agora mais Completo e Moderno
 ----------------------------
         ATENÇÃO
 ----------------------------
-Ainda em testes
+AINDA EM TESTES
 ---------------------------
 Só executar
 ---------------------------
