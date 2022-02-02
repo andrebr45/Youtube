@@ -1,0 +1,6 @@
+Instale em uma Máquina Virtual Python
+-------------------------------------
+pip install pillow
+pip install pytube
+pip install requests
+-------------------------------------
