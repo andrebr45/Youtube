@@ -1,9 +1,15 @@
-# Youtube Executável
+# Youtube Programa Executável
 Agora mais Completo e Moderno
+e que ajude a todos, aproveitem!
+
 ----------------------------
 ATENÇÃO
 ----------------------------
-AINDA EM TESTES
+Baixem todos os arquivos em ZIP e
+descompacte, coloque onde achar
+melhor e deixem sempre junto com
+a pasta images
+
 ---------------------------
 Só executar
 ---------------------------
