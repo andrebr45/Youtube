@@ -11,7 +11,9 @@ Baixem todos os arquivos em ZIP e
 descompacte, use a vontade
 
 instale as bibliotecas
+---------------------
 -- pip install pytube
+----------------------
 -- pip intall requests
 -- pip install pillow
 
