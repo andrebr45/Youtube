@@ -14,7 +14,7 @@ instale as bibliotecas
 ---------------------
 -- pip install pytube
 ----------------------
--- pip intall requests
+-- pip install requests
 ----------------------
 -- pip install pillow
 ----------------------
