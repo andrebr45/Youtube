@@ -26,14 +26,14 @@ ATENÇÃO - PASSOS
   <h2>Baixar Aqui </a></h2>
 </div>
   
-<h2>2° - Descompacte o ZIP </h2>
+<h3>2° - Descompacte o ZIP </h3>
 
 <p>Cria um Ambiente Virtual: python -m venv venv</p>
-<h2>3° - Crie um Ambiente Virtual </h2>
+<h3>3° - Crie um Ambiente Virtual </h3>
 
-<h2>4° - Mova os arquivos descompactados para o Ambiente Virtual </h2>
+<h3>4° - Mova os arquivos descompactados para o Ambiente Virtual </h3>
   
-<h2>5° - Instale as seguintes Bibliotecas </h2>
+<h3>5° - Instale as seguintes Bibliotecas </h3>
 
 BIBLIOTECAS:
 ---------------------
