@@ -23,13 +23,13 @@ ATENÇÃO - PASSOS
 <div align="center">
   <a href="https://padlet-uploads.storage.googleapis.com/1285543771/7d1a861f0b7e48af5300de0b4cec9e5d/2022_01_22_13_10_26.mp4">
   <h2>1° - Baixe a Pasta ZIP </h2>
-  <h1><a> Baixar Aqui </a></h1>
+  <h1>Baixar Aqui </a></h1>
 </div>
   
 <h2>2° - Descompacte o ZIP </h2>
-  
-<h2>3° - Crie um Ambiente Virtual </h2> 
 <p>Cria um Ambiente Virtual: python -m venv venv</p>
+<h2>3° - Crie um Ambiente Virtual </h2> 
+
   
 <h2>4° - Mova os arquivos descompactados para o Ambiente Virtual </h2>
   
