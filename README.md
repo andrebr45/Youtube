@@ -37,7 +37,8 @@ ATENÇÃO - PASSOS
 
 BIBLIOTECAS:
 ---------------------
-<h2> pip install pytube </h2>
+<h3> pip install pytube </h3>
+<h3> pip install requests </h3>
 ----------------------
 -- pip install requests
 ----------------------
