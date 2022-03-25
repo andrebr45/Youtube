@@ -34,13 +34,14 @@ ATENÇÃO - PASSOS
 <h3>4° - Mova os arquivos descompactados para o Ambiente Virtual </h3>
   
 <h3>5° - Instale as seguintes Bibliotecas </h3>
-
+    
+---------------------
 BIBLIOTECAS:
 ---------------------
+    
 <h3> pip install pytube </h3>
 <h3> pip install requests </h3>
 <h3> pip install pillow </h3>
-----------------------
 
 ---------------------------
 CONTRIBUA COM O MEU TRABALHO
