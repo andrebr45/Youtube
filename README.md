@@ -39,10 +39,7 @@ BIBLIOTECAS:
 ---------------------
 <h3> pip install pytube </h3>
 <h3> pip install requests </h3>
-----------------------
--- pip install requests
-----------------------
--- pip install pillow
+<h3> pip install pillow </h3>
 ----------------------
 
 ---------------------------
