@@ -28,7 +28,8 @@ ATENÇÃO - PASSOS
   
 <h2>2° - Descompacte o ZIP </h2>
 <p>Cria um Ambiente Virtual: python -m venv venv</p>
-<h2>3° - Crie um Ambiente Virtual </h2> 
+<h2>3° - Crie um Ambiente Virtual </h2>
+<p>Cria um Ambiente Virtual: python -m venv venv</p>
 
   
 <h2>4° - Mova os arquivos descompactados para o Ambiente Virtual </h2>
