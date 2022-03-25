@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-  <h1> Programa Youtube Download <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h1>
+  <h1> Programa Youtube Download <img align="top" alt="And@-Software" height="30em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h1>
 </div>
 <div align="center">
   <div align="center">
