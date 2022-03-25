@@ -22,14 +22,18 @@ ATENÇÃO - PASSOS
 </div>
 <div align="center">
   <a href="https://padlet-uploads.storage.googleapis.com/1285543771/7d1a861f0b7e48af5300de0b4cec9e5d/2022_01_22_13_10_26.mp4">
-  <h2>1° - Baixe a Pasta ZIP - <h1> Baixar Aqui </a></h1></h2>
- 
+  <h2>1° - Baixe a Pasta ZIP </h2>
+  <h1><a> Baixar Aqui </a></h1>
 </div>
-    
-Crie um Ambiente Virtual
-
-Baixem todos os arquivos em ZIP e
-descompacte, use a vontade
+  
+<h2>2° - Descompacte o ZIP </h2>
+  
+<h2>3° - Crie um Ambiente Virtual </h2> 
+<p>Cria um Ambiente Virtual: python -m venv venv</p>
+  
+<h2>4° - Mova os arquivos descompactados para o Ambiente Virtual </h2>
+  
+<h2>5° - Instale as seguintes Bibliotecas </h2>
 
 instale as bibliotecas
 ---------------------
