@@ -21,9 +21,8 @@ ATENÇÃO - PASSOS
 ----------------------------  
 </div>
 <div align="center">
-  <a href="https://github.com/andrebr45/Youtube/archive/refs/heads/main.zip">
   <h3>1° - Baixe a Pasta ZIP </h3>
-  <h2>Baixar Aqui </a></h2>
+  <h2><a href="https://github.com/andrebr45/Youtube/archive/refs/heads/main.zip">Baixar Aqui </a></h2>
 </div>
   
 <h3>2° - Descompacte o ZIP </h3>
